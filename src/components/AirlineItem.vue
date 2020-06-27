@@ -1,10 +1,16 @@
 <template>
-  <div class="d-flex card card-body m-1 p-1 border border-primary">
+  <div class="card card-body m-1 p-1 border-primary">
     <div class="d-flex flex-row">
-      <div v-if="['国航', '南航', '厦航', '东航', '山东航空', '青岛航空'].includes(name)" class="card-text text-secondary">
+      <div v-if="['国航', '南航', '厦航', '东航', '山东航空', '青岛航空'].includes(name)"
+        id="airline-name-domestic"
+        class="card-text text-primary"
+      >
         <strong>{{name}}</strong>
       </div>
-      <div v-else class="card-text text-primary">
+      <div v-else 
+        id="airline-name-international"
+        class="card-text text-secondary"
+      >
         <strong>{{name}}</strong>
       </div>
       <a :href="searchLink" target="_blank"
@@ -47,5 +53,11 @@ export default {
 </script>
 
 <style scoped>
+  #airline-name-domestic {
+    background-color: #fafafa;
+  }
 
+  #airline-name-international {
+    background-color: #dadafa;
+  }
 </style>
