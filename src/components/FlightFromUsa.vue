@@ -58,7 +58,7 @@ export default {
             destCode: 'PVG',
             date: '?',
             searchLink: 'https://www.united.com/ual/en/CN/flight-search/book-a-flight/results/rev?f=SFO&t=PVG&d=2020-08-05&tt=1&sc=7&px=2&taxng=1&newHP=True&idx=1',
-            note: 'Waiting Government Approval'
+            note: '等待政府批准'
           },
           {
             name: 'UA (美联航)',
@@ -67,7 +67,7 @@ export default {
             destCode: 'PVG',
             date: '?',
             searchLink: 'https://www.united.com/ual/en/CN/flight-search/book-a-flight/results/rev?f=EWR&t=PVG&d=2020-08-05&tt=1&sc=7&px=2&taxng=1&newHP=True&idx=1',
-            note: 'Waiting Government Approval'
+            note: '等待政府批准'
           },
           {
             name: 'Delta (达美)',

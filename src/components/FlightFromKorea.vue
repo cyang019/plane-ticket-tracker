@@ -25,7 +25,7 @@ export default {
             origCode: 'ICN',
             destCode: 'PVG',
             date: '周五',
-            searchLink: '',
+            searchLink: 'http://www.ceair.com/booking/aicn-sha-200807_CNY.html?adt=2&seriesid=1fb20690b81b11ea830ae743cbc28b8d',
           },
           {
             name: '国航',
