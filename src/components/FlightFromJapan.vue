@@ -32,16 +32,16 @@ export default {
           {
             name: '国航',
             flight: 'CA930',
-            origCode: 'NRT',
-            destCode: 'PVG',
+            origCode: '日本成田NRT',
+            destCode: '上海浦东PVG',
             date: '周四',
             searchLink: 'https://www.airchina.us/US/CN/info/flight-time/#'
           },
           {
             name: '厦航',
             flight: 'MF810',
-            origCode: 'NRT',
-            destCode: 'FOC',
+            origCode: '日本成田NRT',
+            destCode: '福州FOC',
             date: '周五',
             searchLink: 'https://www.xiamenair.com/zh-cn/nticket.html?tripType=OW&orgCodeArr%5B0%5D=NRT&dstCodeArr%5B0%5D=FOC&orgDateArr%5B0%5D=2020-08-07&dstDate=&isInter=true&adtNum=2&chdNum=0&JFCabinFirst=false&acntCd='
           }
