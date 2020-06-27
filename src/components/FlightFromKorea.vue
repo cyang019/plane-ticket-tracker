@@ -33,7 +33,7 @@ export default {
             origCode: 'ICN',
             destCode: 'TAO',
             date: '周五',
-            searchLink: ''
+            searchLink: 'https://www.airchina.us/US/CN/info/flight-time/#'
           },
           {
             name: '南航',
@@ -41,7 +41,7 @@ export default {
             origCode: 'ICN',
             destCode: 'SHE',
             date: '周日',
-            searchLink: ''
+            searchLink: 'https://b2c.csair.com/ita/newIntl/zh/shop/?execution=7f7310649e62f715fbf989b39d53e5e4'
           },
           {
             name: '厦航',
@@ -49,7 +49,7 @@ export default {
             origCode: 'ICN',
             destCode: 'XMN',
             date: '周一',
-            searchLink: ''
+            searchLink: 'https://www.xiamenair.com/zh-cn/nticket.html?tripType=OW&orgCodeArr%5B0%5D=ICN&dstCodeArr%5B0%5D=XMN&orgDateArr%5B0%5D=2020-08-03&dstDate=&isInter=true&adtNum=2&chdNum=0&JFCabinFirst=false&acntCd='
           },
           {
             name: '大韩',
@@ -57,7 +57,7 @@ export default {
             origCode: 'ICN',
             destCode: 'SHE',
             date: '周五',
-            searchLink: ''
+            searchLink: 'https://www.koreanair.com/global/en/booking/xiow.html#date-select?paramStrgKey=BOOKING_GATE&isScheduleDriven=false&inflowroute=quickBooking'
           },
           {
             name: '韩亚',
@@ -65,7 +65,7 @@ export default {
             origCode: 'ICN',
             destCode: 'CGQ',
             date: '周日',
-            searchLink: '',
+            searchLink: 'https://flyasiana.com/I/CN/CH/RevenueInternationalFareDrivenFlightsSelect.do?E5FdPzdU0umQbR8TUcsLYQ===1596141961',
             note: '谨慎购票， 目的地以后可能会变更'
           },
           {
@@ -74,7 +74,7 @@ export default {
             origCode: 'ICN',
             destCode: 'WEH',
             date: '周三',
-            searchLink: ''
+            searchLink: 'https://www.jejuair.net/jejuair/cn/com/jeju/ibe/goAvail.do'
           },
           {
             name: '山东航空',
@@ -82,7 +82,7 @@ export default {
             origCode: 'ICN',
             destCode: 'TAO',
             date: '周五',
-            searchLink: '',
+            searchLink: 'http://sc.travelsky.com/scet/queryAvInternational.do',
             note: '行李不能直挂'
           },
           {
@@ -91,7 +91,7 @@ export default {
             origCode: 'ICN',
             destCode: 'TAO',
             date: '周六',
-            searchLink: '',
+            searchLink: 'http://b2c.qdairlines.com/FlightSearch.do',
             note: '行李不能直挂'
           }
         ]

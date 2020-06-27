@@ -35,7 +35,7 @@ export default {
             origCode: 'NRT',
             destCode: 'PVG',
             date: '周四',
-            searchLink: ''
+            searchLink: 'https://www.airchina.us/US/CN/info/flight-time/#'
           },
           {
             name: '厦航',
@@ -43,7 +43,7 @@ export default {
             origCode: 'NRT',
             destCode: 'FOC',
             date: '周五',
-            searchLink: ''
+            searchLink: 'https://www.xiamenair.com/zh-cn/nticket.html?tripType=OW&orgCodeArr%5B0%5D=NRT&dstCodeArr%5B0%5D=FOC&orgDateArr%5B0%5D=2020-08-07&dstDate=&isInter=true&adtNum=2&chdNum=0&JFCabinFirst=false&acntCd='
           }
         ]
       }
