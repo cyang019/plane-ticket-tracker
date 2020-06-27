@@ -75,7 +75,7 @@ export default {
             origCode: 'SEA - ICN',
             destCode: 'PVG',
             date: '周四',
-            searchLink: 'https://www.delta.com/flight-search/search-results?cacheKeySuffix=7d781b38-f7ca-4a43-8c32-2cb6d082858f'
+            searchLink: 'https://www.delta.com/flight-search/search-results?cacheKeySuffix=9e14dd4b-bb96-41c2-b81e-de740be37b86'
           },
           {
             name: 'Delta (达美)',
