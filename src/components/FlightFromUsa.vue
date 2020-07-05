@@ -53,21 +53,12 @@ export default {
           },
           {
             name: 'UA (美联航)',
-            flight: '[Unknown]',
+            flight: 'UA857',
             origCode: '旧金山SFO',
             destCode: '上海浦东PVG',
             date: '周三，周六',
-            searchLink: 'https://www.united.com/ual/en/CN/flight-search/book-a-flight/results/rev?f=SFO&t=PVG&d=2020-08-05&tt=1&sc=7&px=2&taxng=1&newHP=True&idx=1',
-            note: '等待政府批准'
-          },
-          {
-            name: 'UA (美联航)',
-            flight: '[Unknown]',
-            origCode: 'EWR',
-            destCode: 'PVG',
-            date: '?',
-            searchLink: 'https://www.united.com/ual/en/CN/flight-search/book-a-flight/results/rev?f=EWR&t=PVG&d=2020-08-05&tt=1&sc=7&px=2&taxng=1&newHP=True&idx=1',
-            note: '等待政府批准'
+            searchLink: 'https://www.united.com/zh-hans/cn',
+            note: ''
           },
           {
             name: 'Delta (达美)',
@@ -75,7 +66,7 @@ export default {
             origCode: '西雅图SEA - 首尔ICN',
             destCode: '上海浦东PVG',
             date: '周四',
-            searchLink: 'https://www.delta.com/flight-search/search-results?cacheKeySuffix=9e14dd4b-bb96-41c2-b81e-de740be37b86'
+            searchLink: 'https://zh.delta.com/cn/zh'
           },
           {
             name: 'Delta (达美)',
@@ -83,7 +74,7 @@ export default {
             origCode: '底特律DTW - 首尔ICN',
             destCode: '上海浦东PVG',
             date: '周五',
-            searchLink: 'https://www.delta.com/flight-search/search-results?cacheKeySuffix=06c6aa0b-b2b6-4544-8826-31851b0f23a9'
+            searchLink: 'https://zh.delta.com/cn/zh'
           }
         ]
       }

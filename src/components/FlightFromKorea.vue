@@ -57,7 +57,7 @@ export default {
             origCode: '首尔ICN',
             destCode: '沈阳SHE',
             date: '周五',
-            searchLink: 'https://www.koreanair.com/global/en/booking/xiow.html#date-select?paramStrgKey=BOOKING_GATE&isScheduleDriven=false&inflowroute=quickBooking'
+            searchLink: 'https://www.koreanair.com/global/zh_cn.html'
           },
           {
             name: '韩亚',
@@ -65,7 +65,7 @@ export default {
             origCode: '首尔ICN',
             destCode: '长春CGQ',
             date: '周日',
-            searchLink: 'https://flyasiana.com/I/CN/CH/RevenueInternationalFareDrivenFlightsSelect.do?E5FdPzdU0umQbR8TUcsLYQ===1596141961',
+            searchLink: 'https://flyasiana.com/C/CN/CH/index',
             note: '谨慎购票， 目的地以后可能会变更'
           },
           {
