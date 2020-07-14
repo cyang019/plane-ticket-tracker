@@ -1,5 +1,7 @@
 # Do not change version. This is the version of aws buildspec, not the version of your buldspec file.
-version: 0.2phases:
+version: 0.2
+
+phases:
   # install:
   #   runtime-versions:
   #     nodejs: 11
@@ -23,5 +25,7 @@ artifacts:
   files:
     - src/main.js
     - dist/index.html
+    - dist/css/*
+    - dist/js/*
     - package.json
     - node_modules/**/*
