@@ -2,12 +2,12 @@
 version: 0.2
 
 phases:
-  # install:
-  #   runtime-versions:
-  #     nodejs: 11
-  #   commands:
-  #     - echo Installing Mocha...
-  #     - npm install -g mocha
+  install:
+    # runtime-versions:
+    #   nodejs: 11
+    commands:
+      - echo Installing serve...
+      - npm install -g serve
   pre_build:
     commands:
       - echo Installing source NPM dependencies...
@@ -20,6 +20,7 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
+      - serve -s dist
 # Include only the files required for your application to run.
 artifacts:
   files:
