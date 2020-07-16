@@ -64,9 +64,18 @@ export default {
             flight: 'OZ304',
             origCode: '首尔ICN',
             destCode: '长春CGQ',
-            date: '周日',
+            date: '周二',
             searchLink: 'https://flyasiana.com/C/CN/CH/index',
             note: '谨慎购票， 目的地以后可能会变更'
+          },
+          {
+            name: '韩亚',
+            flight: 'OZ349/OZ350',
+            origCode: '首尔ICN',
+            destCode: '南京NKG',
+            date: '周日',
+            searchLink: 'https://flyasiana.com/C/CN/CH/index',
+            note: ''
           },
           {
             name: '济州航空',
